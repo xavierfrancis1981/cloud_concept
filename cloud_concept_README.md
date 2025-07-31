@@ -110,7 +110,6 @@ These are the three main cloud providers and all offer comprehensive cloud servi
 5. Accessibility & Mobility
 6. Automatic Updates
 7. Speed & Performance
-8. 
 ## Disadvantages of Cloud Computing
 1. Security & Privacy Concerns
 2. Limited Control
@@ -151,3 +150,56 @@ Link: https://aws.amazon.com/solutions/case-studies/capital-one/
 What: Migrated backend to GCP, adopted Kubernetes and AI for personalized experience.
 Impact: Elastic scaling, reduced complexity, smarter features.
 Link: https://cloud.google.com/customers/spotify
+
+## current AI/ML offerings on the cloud
+All three major cloud providers—AWS, Microsoft Azure, and Google Cloud—offer a wide range of AI and machine learning services. 
+
+AWS provides pre-built AI services like image and video analysis with Amazon Rekognition, natural language processing with Amazon Comprehend, and conversational AI with Amazon Lex. For custom model development, AWS offers SageMaker, a comprehensive platform for building, training, and deploying machine learning models.
+
+Microsoft Azure offers cognitive services for vision, speech, language, and decision-making tasks, as well as Azure Bot Service for building chatbots. Their Azure Machine Learning platform supports the full lifecycle of model development and deployment, with additional tools like Azure Databricks for large-scale data processing and Azure OpenAI Service for access to advanced language models.
+
+Google Cloud provides pre-built APIs for vision, natural language, speech, translation, and document processing. Its Vertex AI platform enables end-to-end machine learning workflows including model training, deployment, and monitoring. Google also offers AutoML for no-code model building, BigQuery ML for SQL-based machine learning, and specialized hardware like TPUs to accelerate training and inference.
+
+Additionally, all cloud providers support popular open-source ML frameworks such as TensorFlow and PyTorch and offer tools like Kubeflow for managing machine learning pipelines across environments.
+
+### AI Agents
+AI agents are intelligent systems designed to act independently and adaptively in complex environments to complete tasks or solve problems.
+
+AI agents are software programs or systems that can perceive their environment, make decisions, and take actions autonomously to achieve specific goals. They use artificial intelligence techniques—like machine learning, natural language processing, or rule-based reasoning—to understand input, plan, and interact with their surroundings without constant human guidance.
+
+For example, a virtual assistant like Siri or Alexa is an AI agent that listens to your voice commands, understands your intent, and responds or performs tasks for you. Similarly, autonomous robots or chatbots that handle customer support are also AI agents.
+
+## Data Related Cloud Services
+1. Cloud Storage: Services for storing large amounts of data, such as files, backups, or unstructured data. Examples:
+
+    • AWS S3 (Simple Storage Service)
+
+    • Azure Blob Storage
+
+    • Google Cloud Storage
+2. Databases: Managed database services for different types of data:
+
+    • Relational Databases: AWS RDS, Azure SQL Database, Google Cloud SQL
+
+    • NoSQL Databases: AWS DynamoDB, Azure Cosmos DB, Google Firestore
+
+    • Data Warehouses: AWS Redshift, Azure Synapse Analytics, Google BigQuery
+3. Data Integration & ETL (Extract, Transform, Load): Services to move and transform data between sources and destinations:
+
+    • AWS Glue
+
+    • Azure Data Factory
+
+    • Google Cloud Dataflow
+4. Big Data Analytics: Platforms to analyze large datasets using distributed computing:
+
+    • AWS EMR (Elastic MapReduce)
+
+    • Azure HDInsight
+
+    • Google Cloud Dataproc
+
+## Data Related Certifications
+![alt-text](./aws_cert.png "Architecture")
+![alt-text](./google_cert.png "Architecture")
+![alt-text](./Micro_cert.png "Architecture")
