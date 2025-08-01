@@ -128,12 +128,12 @@ When using cloud services, you typically pay for what you consume — often refe
 | **Data Analytics**             | Big data processing and querying tools                          | EMR, Dataflow, Azure Synapse, BigQuery       |
 
 ## Services not pay in cloud
-| Category                                | Details                                                                                 |
-| --------------------------------------- | --------------------------------------------------------------------------------------- |
-| **IAM (Identity & Access Management)**  | Creating and managing users, roles, and policies is free in AWS, Azure, and GCP.        |
-| **Billing & Cost Tools**                | Tools like AWS Cost Explorer, Azure Cost Management, GCP Billing Reports are free.      |
-| **Free Tier Usage**                     | Most clouds offer always-free or 12-month free usage for some services (see below).     |
-| **Monitoring & Logging (Basic)**        | Basic usage of logging or metrics (limited storage or retention) is often free.         |
+| Category                                | Details                                                                            |
+| --------------------------------------- |------------------------------------------------------------------------------------|
+| **IAM (Identity & Access Management)**  | Creating and managing users, roles, and policies is free in AWS, Azure, and GCP.   |
+| **Billing & Cost Tools**                | Tools like AWS Cost Explorer, Azure Cost Management, GCP Billing Reports are free. |
+| **Free Tier Usage**                     | Most clouds offer always-free or 12-month free usage for some services             |
+| **Monitoring & Logging (Basic)**        | Basic usage of logging or metrics (limited storage or retention) is often free.    |
 
 ## Case studies
 ### Pfizer (Microsoft Azure)
