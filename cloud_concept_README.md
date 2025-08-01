@@ -79,7 +79,7 @@ These are the three main cloud providers and all offer comprehensive cloud servi
 1. Amazon Web Services (AWS)
 2. Microsoft Azure
 3. Google Cloud Platform (GCP)
-
+### USPs - Amazon Web Service
 | Area                    | Details                                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Breadth of Services** | Over 200 services including compute (EC2), storage (S3), AI/ML (SageMaker), containers, IoT, and quantum computing |
